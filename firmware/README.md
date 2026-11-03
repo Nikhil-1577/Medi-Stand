@@ -54,6 +54,12 @@ The enhanced firmware file is located at:
 
 ---
 
+## Detailed Circuit Diagram & Connections Guide
+For a complete pin-by-pin visual diagram, breadboard layout, color codes, and troubleshooting, see:
+- 📖 [**HARDWARE_CIRCUIT_CONNECTIONS.md**](../HARDWARE_CIRCUIT_CONNECTIONS.md)
+
+---
+
 ## 3. Hardware Wiring Table
 
 | Component | NodeMCU Pin | ESP8266 GPIO | Description |
